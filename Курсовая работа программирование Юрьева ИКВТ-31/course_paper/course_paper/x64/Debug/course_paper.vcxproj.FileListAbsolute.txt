@@ -1,0 +1,3 @@
+C:\Users\arish\source\repos\course_paper\course_paper\x64\Debug\course_paper.vcxproj.AssemblyReference.cache
+C:\Users\arish\source\repos\course_paper\course_paper\x64\Debug\coursepaper.App.resources
+C:\Users\arish\source\repos\course_paper\course_paper\x64\Debug\course_paper.vcxproj.GenerateResource.cache
